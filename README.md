@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from China</h3>
 
 - 📝 I regularly write articles on [https://xuzhusheng.medium.com](https://xuzhusheng.medium.com)
+<!--
 - 📫 How to reach me **dreamergz@gmail.com**
-
+-->
 <!--
 - 📄 Know about my experiences [https://xuzhusheng.github.io](https://xuzhusheng.github.io)
 -->
