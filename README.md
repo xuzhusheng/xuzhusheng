@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Calculate Variance and Standard Deviation with Python](https://python.plainenglish.io/calculates-variance-and-standard-deviation-with-python-e8cd434645bf?source=rss-41bd992616fb------2)
+- [Variance and Standard Deviation](https://python.plainenglish.io/calculates-variance-and-standard-deviation-with-python-e8cd434645bf?source=rss-41bd992616fb------2)
 - [Testing for Stationarity in Time Series Data](https://python.plainenglish.io/testing-for-stationarity-in-time-series-data-044401094749?source=rss-41bd992616fb------2)
 - [Accuracy, Precision, Recall and F-score in Machine Learning](https://python.plainenglish.io/precision-recall-and-f-score-614e00f5c15c?source=rss-41bd992616fb------2)
 <!-- BLOG-POST-LIST:END -->
