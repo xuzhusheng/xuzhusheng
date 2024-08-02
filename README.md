@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Watermark Image with Python Pillow](https://xuzhusheng.medium.com/watermark-image-with-python-pillow-9d3433b19f43?source=rss-41bd992616fb------2)
 - [Covariance and Correlation](https://python.plainenglish.io/covariance-and-correlation-20d849be6d5d?source=rss-41bd992616fb------2)
 - [Variance and Standard Deviation](https://python.plainenglish.io/calculates-variance-and-standard-deviation-with-python-e8cd434645bf?source=rss-41bd992616fb------2)
-- [Testing for Stationarity in Time Series Data](https://python.plainenglish.io/testing-for-stationarity-in-time-series-data-044401094749?source=rss-41bd992616fb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
