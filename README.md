@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Smallest Font Subsets For Your Webpage](https://python.plainenglish.io/creating-smallest-font-subsets-for-your-webpage-b2be77848725?source=rss-41bd992616fb------2)
 - [Watermark Image with Python Pillow](https://python.plainenglish.io/watermark-image-with-python-pillow-9d3433b19f43?source=rss-41bd992616fb------2)
 - [Constructs Bounding Volume Hierarchy&lpar;BVH&rpar; with Surface Area Heuristic&lpar;SAH&rpar; in Python](https://python.plainenglish.io/constructs-bounding-volume-hierarchy-bvh-with-surface-area-heuristic-sah-in-python-89c14afb2f03?source=rss-41bd992616fb------2)
-- [3D Affine Transformation Matrices Implementation with NumPy](https://python.plainenglish.io/3d-affine-transformation-matrices-implementation-with-numpy-57f92058403c?source=rss-41bd992616fb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
